@@ -1,6 +1,6 @@
 {
     "name": "field-validator-form",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Universal validations for fields",
     "main": "dist/validators.js",
     "types": "dist/validators.d.ts",

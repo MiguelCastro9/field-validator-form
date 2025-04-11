@@ -1,3 +1,5 @@
+![Brand](https://github.com/MiguelCastro9/field-validator-form/raw/master/assets/brand.png)
+
 # field-validator-form
 
 Universal field validator made in TypeScript, compatible with **React**, **Vue** and **Angular**. Ideal for checking required fields, email, currency values ​​and empty fields.

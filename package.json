@@ -5,21 +5,25 @@
     "main": "dist/validators.js",
     "types": "dist/validators.d.ts",
     "scripts": {
-        "build": "tsc",
-        "prepublishOnly": "npm run build"
+      "build": "tsc",
+      "prepublishOnly": "npm run build"
     },
     "keywords": [
-        "validator",
-        "form",
-        "input",
-        "typescript",
-        "react",
-        "vue",
-        "angular"
+      "validator",
+      "form",
+      "input",
+      "typescript",
+      "react",
+      "vue",
+      "angular"
     ],
     "author": "Miguel Castro",
     "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/MiguelCastro9/field-validator-form"
+    },
     "devDependencies": {
-        "typescript": "^5.0.0"
+      "typescript": "^5.0.0"
     }
-}
+  }  

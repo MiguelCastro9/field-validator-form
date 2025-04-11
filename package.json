@@ -1,18 +1,25 @@
 {
     "name": "field-validator-form",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Universal validations for fields",
     "main": "dist/validators.js",
     "types": "dist/validators.d.ts",
     "scripts": {
-      "build": "tsc",
-      "prepublishOnly": "npm run build"
+        "build": "tsc",
+        "prepublishOnly": "npm run build"
     },
-    "keywords": ["validator", "form", "input", "typescript", "react", "vue", "angular"],
+    "keywords": [
+        "validator",
+        "form",
+        "input",
+        "typescript",
+        "react",
+        "vue",
+        "angular"
+    ],
     "author": "Miguel Castro",
     "license": "MIT",
     "devDependencies": {
-      "typescript": "^5.0.0"
+        "typescript": "^5.0.0"
     }
-  }
-  
+}
